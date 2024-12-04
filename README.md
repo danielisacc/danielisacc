@@ -1,10 +1,8 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielisacc">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-delavega/">Software Developer</a>, <a href="https://www.youtube.com/@DevwithIsacc">Student</a></h1>
 
 <h2>Software Development Projects<h2>
--<b>Python</b>
-  - [Every Day Coding] (https://github.com/danielisacc/365Programming)
--<b>Java</b>
-  - [Intermediate Java] (https://github.com/danielisacc/IntermediateJava)
+  - Hurley Piano Professional Website (MySQL, HTML, CSS, JS, PHP)
+  - Mars Weather REST API and Website Application (Python, Matplotlib, Pandas, SQLite, Flask, Requests, Documentation)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Active Directory</b>
   - [Active Directory Deployment and Configuration](https://github.com/danielisacc/HomeLab)
