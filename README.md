@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects</h2>
 
-- <b>Hurley Piano Professional Website (MySQL, HTML, CSS, JS, PHP)</b>
+- <b>[Hurley Piano Professional Website](https://github.com/danielisacc/Hurley-Piano) (MySQL, HTML, CSS, JS, PHP)</b>
   - Worked as an intern on a team using Scrum Methodologies and Github as a version control system
   - Although my internship team was unable to fully deploy the website do to company turmoil, I was able to personally developed
     - A Homepage featuring animations using CSS motions
@@ -10,7 +10,7 @@
     - A registration page with an animated real time password validator and email confirmation using PHPMailer
     - A password recovery page using PHPMailer
     - A parent portal for parents to view and edit student information
-- Mars Weather REST API and Website Application (Python, Matplotlib, Pandas, SQLite, Flask, Requests, Documentation)
+- <b>[Mars Weather REST API and Website Application](https://github.com/danielisacc/MarsWeatherAPI) (Python, Matplotlib, Pandas, SQLite, Flask, Requests, Documentation)</b>
   - Generated professional documentation to help others use my project
   - Project uses Dependency Injection, Inheritance, and Object Oriented Standards for flexibility and expandibility
   - Features...
