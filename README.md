@@ -4,7 +4,7 @@
 
 - <b>[Hurley Piano Professional Website](https://github.com/danielisacc/Hurley-Piano) (MySQL, HTML, CSS, JS, PHP)</b>
   - Worked as an intern on a team using Scrum Methodologies and Github as a version control system
-  - Although my internship team was unable to fully deploy the website do to company turmoil, I was able to personally developed
+  - Although my internship team was unable to fully deploy the website do to changes in company leadership, I was able to personally developed
     - A Homepage featuring animations using CSS motions
     - A Login page using password hashing, session security, and input wrapping
     - A registration page with an animated real time password validator and email confirmation using PHPMailer
