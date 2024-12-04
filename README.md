@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielisacc">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-delavega/">Software Developer</a>, <a href="https://www.youtube.com/@DevwithIsacc">Student</a></h1>
 
-<h2>Software Development Projects</h2>
+<h2>🖥️ Software Development Projects</h2>
 
 - <b>[Hurley Piano Professional Website](https://github.com/danielisacc/Hurley-Piano) (MySQL, HTML, CSS, JS, PHP)</b>
   - Worked as an intern on a team using Scrum Methodologies and Github as a version control system
@@ -52,6 +52,16 @@
   - Intermediate C++
   - Project Management
   - Oracle PL/SQL
+
+👨‍🏫 CIST Classes I've finished...
+- Programming Fundamentals 1
+- Fundamentals of Networking
+- UNIX Operating Systems
+- Database Programming
+- Spreadsheets
+- Scientific Python
+- Intermediate Java
+- Practicum CIT (internship class)
 
 👯 I’m looking to collaborate on ...
 - I would love to work with someone in developing an AI model, I think it's a lot of fun and is large enough to need multiple hands. Please message me on LinkedIn if you are just as excited as I am!
