@@ -13,7 +13,7 @@ From Mars weather APIs to disaster alert systems, I enjoy building reliable, rea
 
 <h2>🛠️ Featured Projects</h2>
 
-- <b>[Disaster Alert Web App (Hackathon Project)](https://github.com/danielisacc/Natural-Disaster-Alert-App) (Python, Django, Twilio SMS API, REST, JavaScript, HTML, CSS)</b>
+- <b>[Disaster Alert Web App (Hackathon Project)](https://github.com/danielisacc/TeamSiren_Hackathon) (Python, Django, Twilio SMS API, REST, React, Tailwind)</b>
   - Built at ACC RiverHacks 2025 with a team of 4
   - Designed and developed a functional MVP that:
     - Pulls real-time natural disaster data based on ZIP code
