@@ -68,25 +68,21 @@ From Mars weather APIs to disaster alert systems, I enjoy building reliable, rea
 
 <h2>📚 Currently Learning</h2>
 
-- Preparing for the [PCAP: Python Certified Associate Programmer](https://pythoninstitute.org/pcap)
-- Coursework at Austin Community College (BAS Software Development)
-  - Intermediate C++
-  - PC Hardware
-  - Oracle PL/SQL
-  - Project Management
+- **Rust**, using *The Rust Programming Language* by Steve Klabnik & Carol Nichols  
+- **Shell scripting** and automation with **Bash and Python**  
+- **Information Security** (coursework)  
+- **Hadoop & Distributed Databases** (coursework) 
 
 ---
 
 <h2>📘 Completed Coursework</h2>
 
-- Programming Fundamentals I
-- Intermediate Java
-- UNIX Operating Systems
-- Database Programming
-- Fundamentals of Networking
-- Scientific Python
-- Spreadsheets
-- Practicum CIT (Internship course)
+- **Scientific Python** – data analysis, NumPy, Matplotlib  
+- **Machine Learning I** – supervised modeling, ensemble methods, evaluation  
+- **Intermediate Java** – object-oriented design and patterns  
+- **Intermediate C++** – systems-level programming and memory handling  
+- **Oracle PL/SQL** – relational databases, procedures, and triggers  
+- **Project Management** – Agile, Scrum, and documentation practices  
 
 ---
 
