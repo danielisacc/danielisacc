@@ -1,9 +1,7 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielisacc">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-delavega/">Backend and Embedded Systems Developer</a>, <a href="https://www.youtube.com/@DevwithIsacc">Student</a></h1>
-
 <h1>Hi, I'm Daniel!<br/>
-<a href="https://github.com/danielisacc">Backend & Embedded Developer</a> |
-<a href="https://www.linkedin.com/in/daniel-delavega/">Software Developer</a> |
-<a href="https://www.youtube.com/@DevwithIsacc">Student</a>
+<a href="https://github.com/danielisacc">Backend & Embedded Developer</a> |<br/>
+<a href="https://www.linkedin.com/in/daniel-delavega/">Software Developer</a> |<br/>
+<a href="https://www.youtube.com/@DevwithIsacc">Student</a><br/>
 </h1>
 
 ---
