@@ -1,68 +1,102 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielisacc">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-delavega/">Software Developer</a>, <a href="https://www.youtube.com/@DevwithIsacc">Student</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielisacc">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-delavega/">Backend and Embedded Systems Developer</a>, <a href="https://www.youtube.com/@DevwithIsacc">Student</a></h1>
 
-<h2>🖥️ Software Development Projects</h2>
+<h1>Hi, I'm Daniel!<br/>
+<a href="https://github.com/danielisacc">Backend & Embedded Developer</a> |
+<a href="https://www.linkedin.com/in/daniel-delavega/">Software Developer</a> |
+<a href="https://www.youtube.com/@DevwithIsacc">Student</a>
+</h1>
 
-- <b>[Hurley Piano Professional Website](https://github.com/danielisacc/Hurley-Piano) (MySQL, HTML, CSS, JS, PHP)</b>
-  - Worked as an intern on a team using Scrum Methodologies and Github as a version control system
-  - Although my internship team was unable to fully deploy the website do to changes in company leadership, I was able to personally developed
-    - A Homepage featuring animations using CSS motions
-    - A Login page using password hashing, session security, and input wrapping
-    - A registration page with an animated real time password validator and email confirmation using PHPMailer
-    - A password recovery page using PHPMailer
-    - A parent portal for parents to view and edit student information
-- <b>[Mars Weather REST API and Website Application](https://github.com/danielisacc/MarsWeatherAPI) (Python, Matplotlib, Pandas, SQLite, Flask, Requests, Documentation)</b>
-  - Generated professional documentation to help others use my project
-  - Project uses Dependency Injection, Inheritance, and Object Oriented Standards for flexibility and expandibility
-  - Features...
-    - Python subpackage to connect to NASA InSight Open API
-    - Python subpackage to save data to SQLite Database securly
-    - Python module to return most current and important weather data
-    - Python module to return historical graphs displaying all the important data on a time dependent graph.
-    - Python module to act as REST API interface router
-    - HTML, CSS, and JS to act as front end that connects to backend to retrieve information from the Flask backend.
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+---
 
-- <b>Active Directory</b>
-  - [Active Directory Deployment and Configuration](https://github.com/danielisacc/HomeLab)
-<h2> Certifications</h2>
+🎯 **I specialize in backend and embedded systems with a growing focus on public-sector and environmental technologies.**  
+From Mars weather APIs to disaster alert systems, I enjoy building reliable, real-world tools that help make data actionable and systems resilient.
 
-- <b>Google Career Certificate</b>
-  - Learned SIEM & IDS tools
-  - Learned to Identify common security risks, threats, and vulnerabilities
-  - Learned formal documentation and mitigation techniques
+---
+
+<h2>🛠️ Featured Projects</h2>
+
+- <b>[Disaster Alert Web App (Hackathon Project)](https://github.com/danielisacc/Natural-Disaster-Alert-App) (Python, Django, Twilio SMS API, REST, JavaScript, HTML, CSS)</b>
+  - Built at ACC RiverHacks 2025 with a team of 4
+  - Designed and developed a functional MVP that:
+    - Pulls real-time natural disaster data based on ZIP code
+    - Sends SMS alerts to users via Twilio with relevant info and links
+    - Hosts a web interface to show affected areas and nearest hospitals
+  - Personally responsible for designing the backend API and integrating location-based alert logic
+
+- <b>[Mars Weather REST API and Website Application](https://github.com/danielisacc/MarsWeatherAPI) (Python, Flask, SQLite, Matplotlib, Pandas)</b>
+  - Built a full data pipeline from NASA InSight API to web dashboard
+  - Used Dependency Injection, OOP principles, and RESTful design
+  - Project modules include:
+    - API data retrieval and logging to SQLite
+    - Weather analysis and historical graph generation
+    - REST API for programmatic access to current data
+    - Frontend website using HTML/CSS/JS to visualize live Mars data
+
+- <b>[Hurley Piano Professional Website](https://github.com/danielisacc/Hurley-Piano) (PHP, MySQL, HTML, CSS, JS)</b>
+  - Developed as part of an internship project (team of 3, Scrum workflow)
+  - Personally built:
+    - Animated homepage with a hero section
+    - Login/registration with hashed credentials and email verification
+    - Password recovery with PHPMailer
+    - A parent portal to view/update student info
+
+---
+
+<h2>🧰 Cybersecurity & Infrastructure Projects</h2>
+
+- <b>Active Directory Deployment & Configuration</b>
+  - [Project Repository](https://github.com/danielisacc/HomeLab)
+  - Step-by-step setup using Windows Server 2019 and Hyper-V
+  - Configured AD, DNS, DHCP, NAT, and remote access for a virtual lab
+
+---
+
+<h2>📜 Certifications</h2>
+
+- <b>Google Cybersecurity Career Certificate</b>
+  - Hands-on practice with SIEM tools, risk mitigation, and documentation
   - [Coursera Certificate](https://coursera.org/share/7e463ebd02633e3ce32d5f5b849e16e9)
-  - [Documentation Practice from certificate](https://drive.google.com/drive/folders/1V5REgh_IcM1CVjk9vAvyhl98X9Oj_PjH?usp=drive_link)
+  - [Example Security Documentation](https://drive.google.com/drive/folders/1V5REgh_IcM1CVjk9vAvyhl98X9Oj_PjH?usp=drive_link)
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🚀 Currently Working On</h2>
+
+- Improving the backend architecture of my Mars Weather App
+- Refactoring my Hackathon alert system for deployment-readiness
+- Beginning work on a C++ systems project with environmental relevance
+
+---
+
+<h2>📚 Currently Learning</h2>
+
+- Preparing for the [PCAP: Python Certified Associate Programmer](https://pythoninstitute.org/pcap)
+- Coursework at Austin Community College (BAS Software Development)
+  - Intermediate C++
+  - PC Hardware
+  - Oracle PL/SQL
+  - Project Management
+
+---
+
+<h2>📘 Completed Coursework</h2>
+
+- Programming Fundamentals I
+- Intermediate Java
+- UNIX Operating Systems
+- Database Programming
+- Fundamentals of Networking
+- Scientific Python
+- Spreadsheets
+- Practicum CIT (Internship course)
+
+---
+
+<h2>📡 Connect With Me</h2>
 
 [<img align="left" alt="DanielDelavega | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="danieldelavega | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/@DevwithIsacc
+[youtube]: https://www.youtube.com/@DevwithIsacc  
 [linkedin]: https://www.linkedin.com/in/daniel-delavega/
-<br>
-🔭 I’m currently working on ...
-- I am currently still developing my Mars Weather Website to be more attractive and usable.
-
-🌱 I’m currently learning ...
-- I am currently getting ready for the [PCAP](https://pythoninstitute.org/pcap) (Certified Associate Python Programmer) exam provided by the Python Institute
-- I am attending ACC for my Bachelors of Applied Science in Software development. I am taking the following classes currently
-  - PC Hardware
-  - Intermediate C++
-  - Project Management
-  - Oracle PL/SQL
-
-👨‍🏫 CIST Classes I've finished...
-- Programming Fundamentals 1
-- Fundamentals of Networking
-- UNIX Operating Systems
-- Database Programming
-- Spreadsheets
-- Scientific Python
-- Intermediate Java
-- Practicum CIT (internship class)
-
-👯 I’m looking to collaborate on ...
-- I would love to work with someone in developing an AI model, I think it's a lot of fun and is large enough to need multiple hands. Please message me on LinkedIn if you are just as excited as I am!
 
